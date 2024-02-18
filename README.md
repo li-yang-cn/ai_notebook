@@ -2,18 +2,6 @@
 
 This repository is dedicated to storing and updating notebooks for my commonly used large models, including BLIP2 and MusicGen.
 
-## Repository Structure
-
-ai_lab
-├── blip2
-│ ├── blip2.ipynb
-│ └── pics
-│ └── demo.jpg
-└── musicGen
-├── audio_output
-│ └── musicgen_out_hPKQI.wav
-└── musicgen.ipynb
-
 
 ## Projects
 
