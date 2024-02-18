@@ -15,4 +15,5 @@ MusicGen is a project aimed at generating music using AI. The `musicgen.ipynb` n
 
 ## Usage
 
+Follow https://huggingface.co/docs/transformers/installation to install Huggingface Transformers.  
 To get started with these projects, navigate to their respective directories and follow the instructions in the Jupyter notebooks.
